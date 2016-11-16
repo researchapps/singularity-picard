@@ -20,4 +20,4 @@ Instructions can be found on the [singularity site](https://singularityware.gith
 How to access the picard runtime executable?
 
 
-      ./picard.img -h
+      ./picard.img [args] ...
